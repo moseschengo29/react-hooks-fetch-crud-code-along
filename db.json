@@ -29,12 +29,6 @@
       "name": "Swiss Cheese",
       "category": "Dairy",
       "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
     }
   ]
 }
